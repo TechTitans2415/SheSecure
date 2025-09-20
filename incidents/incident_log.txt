@@ -1,0 +1,1218 @@
+
+INCIDENT REPORT
+================
+Incident ID: SOS_20250920_062024_952
+Timestamp: 2025-09-20 06:20:24
+Type: SOS Gesture Detection
+Gesture: hands_up
+Confidence: 0.70
+Snapshot: incidents\SOS_20250920_062024_952_snapshot.jpg
+Location: Camera 1 - Main Surveillance Area
+Status: ACTIVE EMERGENCY
+Notification Sent: Processing...
+================
+
+
+INCIDENT REPORT
+================
+Incident ID: SOS_20250920_062055_5
+Timestamp: 2025-09-20 06:20:55
+Type: SOS Gesture Detection
+Gesture: hands_up
+Confidence: 0.70
+Snapshot: incidents\SOS_20250920_062055_5_snapshot.jpg
+Location: Camera 1 - Main Surveillance Area
+Status: ACTIVE EMERGENCY
+Notification Sent: Processing...
+================
+
+
+INCIDENT REPORT
+================
+Incident ID: SOS_20250920_062133_315
+Timestamp: 2025-09-20 06:21:33
+Type: SOS Gesture Detection
+Gesture: hands_up
+Confidence: 0.70
+Snapshot: incidents\SOS_20250920_062133_315_snapshot.jpg
+Location: Camera 1 - Main Surveillance Area
+Status: ACTIVE EMERGENCY
+Notification Sent: Processing...
+================
+
+
+INCIDENT REPORT
+================
+Incident ID: SOS_20250920_062205_157
+Timestamp: 2025-09-20 06:22:05
+Type: SOS Gesture Detection
+Gesture: hands_up
+Confidence: 0.70
+Snapshot: incidents\SOS_20250920_062205_157_snapshot.jpg
+Location: Camera 1 - Main Surveillance Area
+Status: ACTIVE EMERGENCY
+Notification Sent: Processing...
+================
+
+
+INCIDENT REPORT
+================
+Incident ID: SOS_20250920_062235_469
+Timestamp: 2025-09-20 06:22:35
+Type: SOS Gesture Detection
+Gesture: hands_up
+Confidence: 0.70
+Snapshot: incidents\SOS_20250920_062235_469_snapshot.jpg
+Location: Camera 1 - Main Surveillance Area
+Status: ACTIVE EMERGENCY
+Notification Sent: Processing...
+================
+
+
+INCIDENT REPORT
+================
+Incident ID: SOS_20250920_062805_147
+Timestamp: 2025-09-20 06:28:05
+Type: SOS Gesture Detection
+Gesture: hands_up
+Confidence: 0.70
+Snapshot: incidents\SOS_20250920_062805_147_snapshot.jpg
+Location: Camera 1 - Main Surveillance Area
+Status: ACTIVE EMERGENCY
+Notification Sent: Processing...
+================
+
+
+INCIDENT REPORT
+================
+Incident ID: SOS_20250920_062811_605
+Timestamp: 2025-09-20 06:28:11
+Type: SOS Gesture Detection
+Gesture: hands_up
+Confidence: 0.70
+Snapshot: incidents\SOS_20250920_062811_605_snapshot.jpg
+Location: Camera 1 - Main Surveillance Area
+Status: ACTIVE EMERGENCY
+Notification Sent: Processing...
+================
+
+
+INCIDENT REPORT
+================
+Incident ID: SOS_20250920_062819_430
+Timestamp: 2025-09-20 06:28:19
+Type: SOS Gesture Detection
+Gesture: hands_up
+Confidence: 0.70
+Snapshot: incidents\SOS_20250920_062819_430_snapshot.jpg
+Location: Camera 1 - Main Surveillance Area
+Status: ACTIVE EMERGENCY
+Notification Sent: Processing...
+================
+
+
+INCIDENT REPORT
+================
+Incident ID: SOS_20250920_062827_564
+Timestamp: 2025-09-20 06:28:27
+Type: SOS Gesture Detection
+Gesture: hands_up
+Confidence: 0.70
+Snapshot: incidents\SOS_20250920_062827_564_snapshot.jpg
+Location: Camera 1 - Main Surveillance Area
+Status: ACTIVE EMERGENCY
+Notification Sent: Processing...
+================
+
+
+INCIDENT REPORT
+================
+Incident ID: SOS_20250920_063007_979
+Timestamp: 2025-09-20 06:30:07
+Type: SOS Gesture Detection
+Gesture: hands_up
+Confidence: 0.70
+Snapshot: incidents\SOS_20250920_063007_979_snapshot.jpg
+Location: Camera 1 - Main Surveillance Area
+Status: ACTIVE EMERGENCY
+Notification Sent: Processing...
+================
+
+
+INCIDENT REPORT
+================
+Incident ID: SOS_20250920_063009_18
+Timestamp: 2025-09-20 06:30:09
+Type: SOS Gesture Detection
+Gesture: hands_up
+Confidence: 0.70
+Snapshot: incidents\SOS_20250920_063009_18_snapshot.jpg
+Location: Camera 1 - Main Surveillance Area
+Status: ACTIVE EMERGENCY
+Notification Sent: Processing...
+================
+
+
+INCIDENT REPORT
+================
+Incident ID: SOS_20250920_063014_372
+Timestamp: 2025-09-20 06:30:14
+Type: SOS Gesture Detection
+Gesture: hands_up
+Confidence: 0.70
+Snapshot: incidents\SOS_20250920_063014_372_snapshot.jpg
+Location: Camera 1 - Main Surveillance Area
+Status: ACTIVE EMERGENCY
+Notification Sent: Processing...
+================
+
+
+INCIDENT REPORT
+================
+Incident ID: SOS_20250920_063017_70
+Timestamp: 2025-09-20 06:30:17
+Type: SOS Gesture Detection
+Gesture: hands_up
+Confidence: 0.70
+Snapshot: incidents\SOS_20250920_063017_70_snapshot.jpg
+Location: Camera 1 - Main Surveillance Area
+Status: ACTIVE EMERGENCY
+Notification Sent: Processing...
+================
+
+
+INCIDENT REPORT
+================
+Incident ID: SOS_20250920_063022_516
+Timestamp: 2025-09-20 06:30:22
+Type: SOS Gesture Detection
+Gesture: hands_up
+Confidence: 0.70
+Snapshot: incidents\SOS_20250920_063022_516_snapshot.jpg
+Location: Camera 1 - Main Surveillance Area
+Status: ACTIVE EMERGENCY
+Notification Sent: Processing...
+================
+
+
+INCIDENT REPORT
+================
+Incident ID: SOS_20250920_063022_806
+Timestamp: 2025-09-20 06:30:22
+Type: SOS Gesture Detection
+Gesture: hands_up
+Confidence: 0.70
+Snapshot: incidents\SOS_20250920_063022_806_snapshot.jpg
+Location: Camera 1 - Main Surveillance Area
+Status: ACTIVE EMERGENCY
+Notification Sent: Processing...
+================
+
+
+INCIDENT REPORT
+================
+Incident ID: SOS_20250920_063028_12
+Timestamp: 2025-09-20 06:30:28
+Type: SOS Gesture Detection
+Gesture: hands_up
+Confidence: 0.70
+Snapshot: incidents\SOS_20250920_063028_12_snapshot.jpg
+Location: Camera 1 - Main Surveillance Area
+Status: ACTIVE EMERGENCY
+Notification Sent: Processing...
+================
+
+
+INCIDENT REPORT
+================
+Incident ID: SOS_20250920_063029_894
+Timestamp: 2025-09-20 06:30:29
+Type: SOS Gesture Detection
+Gesture: hands_up
+Confidence: 0.70
+Snapshot: incidents\SOS_20250920_063029_894_snapshot.jpg
+Location: Camera 1 - Main Surveillance Area
+Status: ACTIVE EMERGENCY
+Notification Sent: Processing...
+================
+
+
+INCIDENT REPORT
+================
+Incident ID: SOS_20250920_063055_82
+Timestamp: 2025-09-20 06:30:55
+Type: SOS Gesture Detection
+Gesture: hands_up
+Confidence: 0.70
+Snapshot: incidents\SOS_20250920_063055_82_snapshot.jpg
+Location: Camera 1 - Main Surveillance Area
+Status: ACTIVE EMERGENCY
+Notification Sent: Processing...
+================
+
+
+INCIDENT REPORT
+================
+Incident ID: SOS_20250920_063100_183
+Timestamp: 2025-09-20 06:31:00
+Type: SOS Gesture Detection
+Gesture: hands_up
+Confidence: 0.70
+Snapshot: incidents\SOS_20250920_063100_183_snapshot.jpg
+Location: Camera 1 - Main Surveillance Area
+Status: ACTIVE EMERGENCY
+Notification Sent: Processing...
+================
+
+
+INCIDENT REPORT
+================
+Incident ID: SOS_20250920_063102_460
+Timestamp: 2025-09-20 06:31:02
+Type: SOS Gesture Detection
+Gesture: hands_up
+Confidence: 0.70
+Snapshot: incidents\SOS_20250920_063102_460_snapshot.jpg
+Location: Camera 1 - Main Surveillance Area
+Status: ACTIVE EMERGENCY
+Notification Sent: Processing...
+================
+
+
+INCIDENT REPORT
+================
+Incident ID: SOS_20250920_063107_503
+Timestamp: 2025-09-20 06:31:07
+Type: SOS Gesture Detection
+Gesture: hands_up
+Confidence: 0.70
+Snapshot: incidents\SOS_20250920_063107_503_snapshot.jpg
+Location: Camera 1 - Main Surveillance Area
+Status: ACTIVE EMERGENCY
+Notification Sent: Processing...
+================
+
+
+INCIDENT REPORT
+================
+Incident ID: SOS_20250920_063108_223
+Timestamp: 2025-09-20 06:31:08
+Type: SOS Gesture Detection
+Gesture: hands_up
+Confidence: 0.70
+Snapshot: incidents\SOS_20250920_063108_223_snapshot.jpg
+Location: Camera 1 - Main Surveillance Area
+Status: ACTIVE EMERGENCY
+Notification Sent: Processing...
+================
+
+
+INCIDENT REPORT
+================
+Incident ID: SOS_20250920_063116_812
+Timestamp: 2025-09-20 06:31:16
+Type: SOS Gesture Detection
+Gesture: hands_up
+Confidence: 0.70
+Snapshot: incidents\SOS_20250920_063116_812_snapshot.jpg
+Location: Camera 1 - Main Surveillance Area
+Status: ACTIVE EMERGENCY
+Notification Sent: Processing...
+================
+
+
+INCIDENT REPORT
+================
+Incident ID: SOS_20250920_063121_862
+Timestamp: 2025-09-20 06:31:21
+Type: SOS Gesture Detection
+Gesture: hands_up
+Confidence: 0.70
+Snapshot: incidents\SOS_20250920_063121_862_snapshot.jpg
+Location: Camera 1 - Main Surveillance Area
+Status: ACTIVE EMERGENCY
+Notification Sent: Processing...
+================
+
+
+INCIDENT REPORT
+================
+Incident ID: SOS_20250920_063123_364
+Timestamp: 2025-09-20 06:31:23
+Type: SOS Gesture Detection
+Gesture: hands_up
+Confidence: 0.70
+Snapshot: incidents\SOS_20250920_063123_364_snapshot.jpg
+Location: Camera 1 - Main Surveillance Area
+Status: ACTIVE EMERGENCY
+Notification Sent: Processing...
+================
+
+
+INCIDENT REPORT
+================
+Incident ID: SOS_20250920_063131_52
+Timestamp: 2025-09-20 06:31:31
+Type: SOS Gesture Detection
+Gesture: hands_up
+Confidence: 0.70
+Snapshot: incidents\SOS_20250920_063131_52_snapshot.jpg
+Location: Camera 1 - Main Surveillance Area
+Status: ACTIVE EMERGENCY
+Notification Sent: Processing...
+================
+
+
+INCIDENT REPORT
+================
+Incident ID: SOS_20250920_063137_359
+Timestamp: 2025-09-20 06:31:37
+Type: SOS Gesture Detection
+Gesture: hands_up
+Confidence: 0.70
+Snapshot: incidents\SOS_20250920_063137_359_snapshot.jpg
+Location: Camera 1 - Main Surveillance Area
+Status: ACTIVE EMERGENCY
+Notification Sent: Processing...
+================
+
+
+INCIDENT REPORT
+================
+Incident ID: SOS_20250920_063143_278
+Timestamp: 2025-09-20 06:31:43
+Type: SOS Gesture Detection
+Gesture: hands_up
+Confidence: 0.70
+Snapshot: incidents\SOS_20250920_063143_278_snapshot.jpg
+Location: Camera 1 - Main Surveillance Area
+Status: ACTIVE EMERGENCY
+Notification Sent: Processing...
+================
+
+
+INCIDENT REPORT
+================
+Incident ID: SOS_20250920_063153_998
+Timestamp: 2025-09-20 06:31:53
+Type: SOS Gesture Detection
+Gesture: hands_up
+Confidence: 0.70
+Snapshot: incidents\SOS_20250920_063153_998_snapshot.jpg
+Location: Camera 1 - Main Surveillance Area
+Status: ACTIVE EMERGENCY
+Notification Sent: Processing...
+================
+
+
+INCIDENT REPORT
+================
+Incident ID: SOS_20250920_063205_928
+Timestamp: 2025-09-20 06:32:05
+Type: SOS Gesture Detection
+Gesture: hands_up
+Confidence: 0.70
+Snapshot: incidents\SOS_20250920_063205_928_snapshot.jpg
+Location: Camera 1 - Main Surveillance Area
+Status: ACTIVE EMERGENCY
+Notification Sent: Processing...
+================
+
+
+INCIDENT REPORT
+================
+Incident ID: SOS_20250920_063211_449
+Timestamp: 2025-09-20 06:32:11
+Type: SOS Gesture Detection
+Gesture: hands_up
+Confidence: 0.70
+Snapshot: incidents\SOS_20250920_063211_449_snapshot.jpg
+Location: Camera 1 - Main Surveillance Area
+Status: ACTIVE EMERGENCY
+Notification Sent: Processing...
+================
+
+
+INCIDENT REPORT
+================
+Incident ID: SOS_20250920_063216_616
+Timestamp: 2025-09-20 06:32:16
+Type: SOS Gesture Detection
+Gesture: hands_up
+Confidence: 0.70
+Snapshot: incidents\SOS_20250920_063216_616_snapshot.jpg
+Location: Camera 1 - Main Surveillance Area
+Status: ACTIVE EMERGENCY
+Notification Sent: Processing...
+================
+
+
+INCIDENT REPORT
+================
+Incident ID: SOS_20250920_063221_740
+Timestamp: 2025-09-20 06:32:21
+Type: SOS Gesture Detection
+Gesture: hands_up
+Confidence: 0.70
+Snapshot: incidents\SOS_20250920_063221_740_snapshot.jpg
+Location: Camera 1 - Main Surveillance Area
+Status: ACTIVE EMERGENCY
+Notification Sent: Processing...
+================
+
+
+INCIDENT REPORT
+================
+Incident ID: SOS_20250920_063227_571
+Timestamp: 2025-09-20 06:32:27
+Type: SOS Gesture Detection
+Gesture: hands_up
+Confidence: 0.70
+Snapshot: incidents\SOS_20250920_063227_571_snapshot.jpg
+Location: Camera 1 - Main Surveillance Area
+Status: ACTIVE EMERGENCY
+Notification Sent: Processing...
+================
+
+
+INCIDENT REPORT
+================
+Incident ID: SOS_20250920_063234_164
+Timestamp: 2025-09-20 06:32:34
+Type: SOS Gesture Detection
+Gesture: hands_up
+Confidence: 0.70
+Snapshot: incidents\SOS_20250920_063234_164_snapshot.jpg
+Location: Camera 1 - Main Surveillance Area
+Status: ACTIVE EMERGENCY
+Notification Sent: Processing...
+================
+
+
+INCIDENT REPORT
+================
+Incident ID: SOS_20250920_063240_657
+Timestamp: 2025-09-20 06:32:40
+Type: SOS Gesture Detection
+Gesture: hands_up
+Confidence: 0.70
+Snapshot: incidents\SOS_20250920_063240_657_snapshot.jpg
+Location: Camera 1 - Main Surveillance Area
+Status: ACTIVE EMERGENCY
+Notification Sent: Processing...
+================
+
+
+INCIDENT REPORT
+================
+Incident ID: SOS_20250920_063247_219
+Timestamp: 2025-09-20 06:32:47
+Type: SOS Gesture Detection
+Gesture: hands_up
+Confidence: 0.70
+Snapshot: incidents\SOS_20250920_063247_219_snapshot.jpg
+Location: Camera 1 - Main Surveillance Area
+Status: ACTIVE EMERGENCY
+Notification Sent: Processing...
+================
+
+
+INCIDENT REPORT
+================
+Incident ID: SOS_20250920_063258_812
+Timestamp: 2025-09-20 06:32:58
+Type: SOS Gesture Detection
+Gesture: hands_up
+Confidence: 0.70
+Snapshot: incidents\SOS_20250920_063258_812_snapshot.jpg
+Location: Camera 1 - Main Surveillance Area
+Status: ACTIVE EMERGENCY
+Notification Sent: Processing...
+================
+
+
+INCIDENT REPORT
+================
+Incident ID: SOS_20250920_063303_996
+Timestamp: 2025-09-20 06:33:03
+Type: SOS Gesture Detection
+Gesture: hands_up
+Confidence: 0.70
+Snapshot: incidents\SOS_20250920_063303_996_snapshot.jpg
+Location: Camera 1 - Main Surveillance Area
+Status: ACTIVE EMERGENCY
+Notification Sent: Processing...
+================
+
+
+INCIDENT REPORT
+================
+Incident ID: SOS_20250920_063314_588
+Timestamp: 2025-09-20 06:33:14
+Type: SOS Gesture Detection
+Gesture: hands_up
+Confidence: 0.70
+Snapshot: incidents\SOS_20250920_063314_588_snapshot.jpg
+Location: Camera 1 - Main Surveillance Area
+Status: ACTIVE EMERGENCY
+Notification Sent: Processing...
+================
+
+
+INCIDENT REPORT
+================
+Incident ID: SOS_20250920_063320_960
+Timestamp: 2025-09-20 06:33:20
+Type: SOS Gesture Detection
+Gesture: hands_up
+Confidence: 0.70
+Snapshot: incidents\SOS_20250920_063320_960_snapshot.jpg
+Location: Camera 1 - Main Surveillance Area
+Status: ACTIVE EMERGENCY
+Notification Sent: Processing...
+================
+
+
+INCIDENT REPORT
+================
+Incident ID: SOS_20250920_063328_287
+Timestamp: 2025-09-20 06:33:28
+Type: SOS Gesture Detection
+Gesture: hands_up
+Confidence: 0.70
+Snapshot: incidents\SOS_20250920_063328_287_snapshot.jpg
+Location: Camera 1 - Main Surveillance Area
+Status: ACTIVE EMERGENCY
+Notification Sent: Processing...
+================
+
+
+INCIDENT REPORT
+================
+Incident ID: SOS_20250920_063337_726
+Timestamp: 2025-09-20 06:33:37
+Type: SOS Gesture Detection
+Gesture: hands_up
+Confidence: 0.70
+Snapshot: incidents\SOS_20250920_063337_726_snapshot.jpg
+Location: Camera 1 - Main Surveillance Area
+Status: ACTIVE EMERGENCY
+Notification Sent: Processing...
+================
+
+
+INCIDENT REPORT
+================
+Incident ID: SOS_20250920_063355_136
+Timestamp: 2025-09-20 06:33:55
+Type: SOS Gesture Detection
+Gesture: hands_up
+Confidence: 0.70
+Snapshot: incidents\SOS_20250920_063355_136_snapshot.jpg
+Location: Camera 1 - Main Surveillance Area
+Status: ACTIVE EMERGENCY
+Notification Sent: Processing...
+================
+
+
+INCIDENT REPORT
+================
+Incident ID: SOS_20250920_063403_614
+Timestamp: 2025-09-20 06:34:03
+Type: SOS Gesture Detection
+Gesture: hands_up
+Confidence: 0.70
+Snapshot: incidents\SOS_20250920_063403_614_snapshot.jpg
+Location: Camera 1 - Main Surveillance Area
+Status: ACTIVE EMERGENCY
+Notification Sent: Processing...
+================
+
+
+INCIDENT REPORT
+================
+Incident ID: SOS_20250920_063409_593
+Timestamp: 2025-09-20 06:34:09
+Type: SOS Gesture Detection
+Gesture: hands_up
+Confidence: 0.70
+Snapshot: incidents\SOS_20250920_063409_593_snapshot.jpg
+Location: Camera 1 - Main Surveillance Area
+Status: ACTIVE EMERGENCY
+Notification Sent: Processing...
+================
+
+
+INCIDENT REPORT
+================
+Incident ID: SOS_20250920_063420_860
+Timestamp: 2025-09-20 06:34:20
+Type: SOS Gesture Detection
+Gesture: hands_up
+Confidence: 0.70
+Snapshot: incidents\SOS_20250920_063420_860_snapshot.jpg
+Location: Camera 1 - Main Surveillance Area
+Status: ACTIVE EMERGENCY
+Notification Sent: Processing...
+================
+
+
+INCIDENT REPORT
+================
+Incident ID: SOS_20250920_063426_124
+Timestamp: 2025-09-20 06:34:26
+Type: SOS Gesture Detection
+Gesture: hands_up
+Confidence: 0.70
+Snapshot: incidents\SOS_20250920_063426_124_snapshot.jpg
+Location: Camera 1 - Main Surveillance Area
+Status: ACTIVE EMERGENCY
+Notification Sent: Processing...
+================
+
+
+INCIDENT REPORT
+================
+Incident ID: SOS_20250920_063431_179
+Timestamp: 2025-09-20 06:34:31
+Type: SOS Gesture Detection
+Gesture: hands_up
+Confidence: 0.70
+Snapshot: incidents\SOS_20250920_063431_179_snapshot.jpg
+Location: Camera 1 - Main Surveillance Area
+Status: ACTIVE EMERGENCY
+Notification Sent: Processing...
+================
+
+
+INCIDENT REPORT
+================
+Incident ID: SOS_20250920_063436_348
+Timestamp: 2025-09-20 06:34:36
+Type: SOS Gesture Detection
+Gesture: hands_up
+Confidence: 0.70
+Snapshot: incidents\SOS_20250920_063436_348_snapshot.jpg
+Location: Camera 1 - Main Surveillance Area
+Status: ACTIVE EMERGENCY
+Notification Sent: Processing...
+================
+
+
+INCIDENT REPORT
+================
+Incident ID: SOS_20250920_063441_740
+Timestamp: 2025-09-20 06:34:41
+Type: SOS Gesture Detection
+Gesture: hands_up
+Confidence: 0.70
+Snapshot: incidents\SOS_20250920_063441_740_snapshot.jpg
+Location: Camera 1 - Main Surveillance Area
+Status: ACTIVE EMERGENCY
+Notification Sent: Processing...
+================
+
+
+INCIDENT REPORT
+================
+Incident ID: SOS_20250920_063446_912
+Timestamp: 2025-09-20 06:34:46
+Type: SOS Gesture Detection
+Gesture: hands_up
+Confidence: 0.70
+Snapshot: incidents\SOS_20250920_063446_912_snapshot.jpg
+Location: Camera 1 - Main Surveillance Area
+Status: ACTIVE EMERGENCY
+Notification Sent: Processing...
+================
+
+
+INCIDENT REPORT
+================
+Incident ID: SOS_20250920_063455_740
+Timestamp: 2025-09-20 06:34:55
+Type: SOS Gesture Detection
+Gesture: hands_up
+Confidence: 0.70
+Snapshot: incidents\SOS_20250920_063455_740_snapshot.jpg
+Location: Camera 1 - Main Surveillance Area
+Status: ACTIVE EMERGENCY
+Notification Sent: Processing...
+================
+
+
+INCIDENT REPORT
+================
+Incident ID: SOS_20250920_063502_177
+Timestamp: 2025-09-20 06:35:02
+Type: SOS Gesture Detection
+Gesture: hands_up
+Confidence: 0.70
+Snapshot: incidents\SOS_20250920_063502_177_snapshot.jpg
+Location: Camera 1 - Main Surveillance Area
+Status: ACTIVE EMERGENCY
+Notification Sent: Processing...
+================
+
+
+INCIDENT REPORT
+================
+Incident ID: SOS_20250920_063508_671
+Timestamp: 2025-09-20 06:35:08
+Type: SOS Gesture Detection
+Gesture: hands_up
+Confidence: 0.70
+Snapshot: incidents\SOS_20250920_063508_671_snapshot.jpg
+Location: Camera 1 - Main Surveillance Area
+Status: ACTIVE EMERGENCY
+Notification Sent: Processing...
+================
+
+
+INCIDENT REPORT
+================
+Incident ID: SOS_20250920_063517_990
+Timestamp: 2025-09-20 06:35:17
+Type: SOS Gesture Detection
+Gesture: hands_up
+Confidence: 0.70
+Snapshot: incidents\SOS_20250920_063517_990_snapshot.jpg
+Location: Camera 1 - Main Surveillance Area
+Status: ACTIVE EMERGENCY
+Notification Sent: Processing...
+================
+
+
+INCIDENT REPORT
+================
+Incident ID: SOS_20250920_063523_157
+Timestamp: 2025-09-20 06:35:23
+Type: SOS Gesture Detection
+Gesture: hands_up
+Confidence: 0.70
+Snapshot: incidents\SOS_20250920_063523_157_snapshot.jpg
+Location: Camera 1 - Main Surveillance Area
+Status: ACTIVE EMERGENCY
+Notification Sent: Processing...
+================
+
+
+INCIDENT REPORT
+================
+Incident ID: SOS_20250920_063528_283
+Timestamp: 2025-09-20 06:35:28
+Type: SOS Gesture Detection
+Gesture: hands_up
+Confidence: 0.70
+Snapshot: incidents\SOS_20250920_063528_283_snapshot.jpg
+Location: Camera 1 - Main Surveillance Area
+Status: ACTIVE EMERGENCY
+Notification Sent: Processing...
+================
+
+
+INCIDENT REPORT
+================
+Incident ID: SOS_20250920_063542_460
+Timestamp: 2025-09-20 06:35:42
+Type: SOS Gesture Detection
+Gesture: hands_up
+Confidence: 0.70
+Snapshot: incidents\SOS_20250920_063542_460_snapshot.jpg
+Location: Camera 1 - Main Surveillance Area
+Status: ACTIVE EMERGENCY
+Notification Sent: Processing...
+================
+
+
+INCIDENT REPORT
+================
+Incident ID: SOS_20250920_063548_180
+Timestamp: 2025-09-20 06:35:48
+Type: SOS Gesture Detection
+Gesture: hands_up
+Confidence: 0.70
+Snapshot: incidents\SOS_20250920_063548_180_snapshot.jpg
+Location: Camera 1 - Main Surveillance Area
+Status: ACTIVE EMERGENCY
+Notification Sent: Processing...
+================
+
+
+INCIDENT REPORT
+================
+Incident ID: SOS_20250920_063555_758
+Timestamp: 2025-09-20 06:35:55
+Type: SOS Gesture Detection
+Gesture: hands_up
+Confidence: 0.70
+Snapshot: incidents\SOS_20250920_063555_758_snapshot.jpg
+Location: Camera 1 - Main Surveillance Area
+Status: ACTIVE EMERGENCY
+Notification Sent: Processing...
+================
+
+
+INCIDENT REPORT
+================
+Incident ID: SOS_20250920_063605_673
+Timestamp: 2025-09-20 06:36:05
+Type: SOS Gesture Detection
+Gesture: hands_up
+Confidence: 0.70
+Snapshot: incidents\SOS_20250920_063605_673_snapshot.jpg
+Location: Camera 1 - Main Surveillance Area
+Status: ACTIVE EMERGENCY
+Notification Sent: Processing...
+================
+
+
+INCIDENT REPORT
+================
+Incident ID: SOS_20250920_063614_428
+Timestamp: 2025-09-20 06:36:14
+Type: SOS Gesture Detection
+Gesture: hands_up
+Confidence: 0.70
+Snapshot: incidents\SOS_20250920_063614_428_snapshot.jpg
+Location: Camera 1 - Main Surveillance Area
+Status: ACTIVE EMERGENCY
+Notification Sent: Processing...
+================
+
+
+INCIDENT REPORT
+================
+Incident ID: SOS_20250920_063620_348
+Timestamp: 2025-09-20 06:36:20
+Type: SOS Gesture Detection
+Gesture: hands_up
+Confidence: 0.70
+Snapshot: incidents\SOS_20250920_063620_348_snapshot.jpg
+Location: Camera 1 - Main Surveillance Area
+Status: ACTIVE EMERGENCY
+Notification Sent: Processing...
+================
+
+
+INCIDENT REPORT
+================
+Incident ID: SOS_20250920_063625_454
+Timestamp: 2025-09-20 06:36:25
+Type: SOS Gesture Detection
+Gesture: hands_up
+Confidence: 0.70
+Snapshot: incidents\SOS_20250920_063625_454_snapshot.jpg
+Location: Camera 1 - Main Surveillance Area
+Status: ACTIVE EMERGENCY
+Notification Sent: Processing...
+================
+
+
+INCIDENT REPORT
+================
+Incident ID: SOS_20250920_063635_628
+Timestamp: 2025-09-20 06:36:35
+Type: SOS Gesture Detection
+Gesture: hands_up
+Confidence: 0.70
+Snapshot: incidents\SOS_20250920_063635_628_snapshot.jpg
+Location: Camera 1 - Main Surveillance Area
+Status: ACTIVE EMERGENCY
+Notification Sent: Processing...
+================
+
+
+INCIDENT REPORT
+================
+Incident ID: SOS_20250920_063640_637
+Timestamp: 2025-09-20 06:36:40
+Type: SOS Gesture Detection
+Gesture: hands_up
+Confidence: 0.70
+Snapshot: incidents\SOS_20250920_063640_637_snapshot.jpg
+Location: Camera 1 - Main Surveillance Area
+Status: ACTIVE EMERGENCY
+Notification Sent: Processing...
+================
+
+
+INCIDENT REPORT
+================
+Incident ID: SOS_20250920_063647_132
+Timestamp: 2025-09-20 06:36:47
+Type: SOS Gesture Detection
+Gesture: hands_up
+Confidence: 0.70
+Snapshot: incidents\SOS_20250920_063647_132_snapshot.jpg
+Location: Camera 1 - Main Surveillance Area
+Status: ACTIVE EMERGENCY
+Notification Sent: Processing...
+================
+
+
+INCIDENT REPORT
+================
+Incident ID: SOS_20250920_063657_3
+Timestamp: 2025-09-20 06:36:57
+Type: SOS Gesture Detection
+Gesture: hands_up
+Confidence: 0.70
+Snapshot: incidents\SOS_20250920_063657_3_snapshot.jpg
+Location: Camera 1 - Main Surveillance Area
+Status: ACTIVE EMERGENCY
+Notification Sent: Processing...
+================
+
+
+INCIDENT REPORT
+================
+Incident ID: SOS_20250920_063704_27
+Timestamp: 2025-09-20 06:37:04
+Type: SOS Gesture Detection
+Gesture: hands_up
+Confidence: 0.70
+Snapshot: incidents\SOS_20250920_063704_27_snapshot.jpg
+Location: Camera 1 - Main Surveillance Area
+Status: ACTIVE EMERGENCY
+Notification Sent: Processing...
+================
+
+
+INCIDENT REPORT
+================
+Incident ID: SOS_20250920_063712_337
+Timestamp: 2025-09-20 06:37:12
+Type: SOS Gesture Detection
+Gesture: hands_up
+Confidence: 0.70
+Snapshot: incidents\SOS_20250920_063712_337_snapshot.jpg
+Location: Camera 1 - Main Surveillance Area
+Status: ACTIVE EMERGENCY
+Notification Sent: Processing...
+================
+
+
+INCIDENT REPORT
+================
+Incident ID: SOS_20250920_063726_964
+Timestamp: 2025-09-20 06:37:26
+Type: SOS Gesture Detection
+Gesture: hands_up
+Confidence: 0.70
+Snapshot: incidents\SOS_20250920_063726_964_snapshot.jpg
+Location: Camera 1 - Main Surveillance Area
+Status: ACTIVE EMERGENCY
+Notification Sent: Processing...
+================
+
+
+INCIDENT REPORT
+================
+Incident ID: SOS_20250920_063732_623
+Timestamp: 2025-09-20 06:37:32
+Type: SOS Gesture Detection
+Gesture: hands_up
+Confidence: 0.70
+Snapshot: incidents\SOS_20250920_063732_623_snapshot.jpg
+Location: Camera 1 - Main Surveillance Area
+Status: ACTIVE EMERGENCY
+Notification Sent: Processing...
+================
+
+
+INCIDENT REPORT
+================
+Incident ID: SOS_20250920_063741_846
+Timestamp: 2025-09-20 06:37:41
+Type: SOS Gesture Detection
+Gesture: hands_up
+Confidence: 0.70
+Snapshot: incidents\SOS_20250920_063741_846_snapshot.jpg
+Location: Camera 1 - Main Surveillance Area
+Status: ACTIVE EMERGENCY
+Notification Sent: Processing...
+================
+
+
+INCIDENT REPORT
+================
+Incident ID: SOS_20250920_063750_205
+Timestamp: 2025-09-20 06:37:50
+Type: SOS Gesture Detection
+Gesture: hands_up
+Confidence: 0.70
+Snapshot: incidents\SOS_20250920_063750_205_snapshot.jpg
+Location: Camera 1 - Main Surveillance Area
+Status: ACTIVE EMERGENCY
+Notification Sent: Processing...
+================
+
+
+INCIDENT REPORT
+================
+Incident ID: SOS_20250920_063757_407
+Timestamp: 2025-09-20 06:37:57
+Type: SOS Gesture Detection
+Gesture: hands_up
+Confidence: 0.70
+Snapshot: incidents\SOS_20250920_063757_407_snapshot.jpg
+Location: Camera 1 - Main Surveillance Area
+Status: ACTIVE EMERGENCY
+Notification Sent: Processing...
+================
+
+
+INCIDENT REPORT
+================
+Incident ID: SOS_20250920_063804_97
+Timestamp: 2025-09-20 06:38:04
+Type: SOS Gesture Detection
+Gesture: hands_up
+Confidence: 0.70
+Snapshot: incidents\SOS_20250920_063804_97_snapshot.jpg
+Location: Camera 1 - Main Surveillance Area
+Status: ACTIVE EMERGENCY
+Notification Sent: Processing...
+================
+
+
+INCIDENT REPORT
+================
+Incident ID: SOS_20250920_063811_958
+Timestamp: 2025-09-20 06:38:11
+Type: SOS Gesture Detection
+Gesture: hands_up
+Confidence: 0.70
+Snapshot: incidents\SOS_20250920_063811_958_snapshot.jpg
+Location: Camera 1 - Main Surveillance Area
+Status: ACTIVE EMERGENCY
+Notification Sent: Processing...
+================
+
+
+INCIDENT REPORT
+================
+Incident ID: SOS_20250920_063912_853
+Timestamp: 2025-09-20 06:39:12
+Type: SOS Gesture Detection
+Gesture: hands_up
+Confidence: 0.70
+Snapshot: incidents\SOS_20250920_063912_853_snapshot.jpg
+Location: Camera 1 - Main Surveillance Area
+Status: ACTIVE EMERGENCY
+Notification Sent: Processing...
+================
+
+
+INCIDENT REPORT
+================
+Incident ID: SOS_20250920_063951_962
+Timestamp: 2025-09-20 06:39:51
+Type: SOS Gesture Detection
+Gesture: hands_up
+Confidence: 0.70
+Snapshot: incidents\SOS_20250920_063951_962_snapshot.jpg
+Location: Camera 1 - Main Surveillance Area
+Status: ACTIVE EMERGENCY
+Notification Sent: Processing...
+================
+
+
+INCIDENT REPORT
+================
+Incident ID: SOS_20250920_063958_334
+Timestamp: 2025-09-20 06:39:58
+Type: SOS Gesture Detection
+Gesture: hands_up
+Confidence: 0.70
+Snapshot: incidents\SOS_20250920_063958_334_snapshot.jpg
+Location: Camera 1 - Main Surveillance Area
+Status: ACTIVE EMERGENCY
+Notification Sent: Processing...
+================
+
+
+INCIDENT REPORT
+================
+Incident ID: SOS_20250920_064015_43
+Timestamp: 2025-09-20 06:40:15
+Type: SOS Gesture Detection
+Gesture: hands_up
+Confidence: 0.70
+Snapshot: incidents\SOS_20250920_064015_43_snapshot.jpg
+Location: Camera 1 - Main Surveillance Area
+Status: ACTIVE EMERGENCY
+Notification Sent: Processing...
+================
+
+
+INCIDENT REPORT
+================
+Incident ID: SOS_20250920_064100_251
+Timestamp: 2025-09-20 06:41:00
+Type: SOS Gesture Detection
+Gesture: hands_up
+Confidence: 0.70
+Snapshot: incidents\SOS_20250920_064100_251_snapshot.jpg
+Location: Camera 1 - Main Surveillance Area
+Status: ACTIVE EMERGENCY
+Notification Sent: Processing...
+================
+
+
+INCIDENT REPORT
+================
+Incident ID: SOS_20250920_064113_105
+Timestamp: 2025-09-20 06:41:13
+Type: SOS Gesture Detection
+Gesture: hands_up
+Confidence: 0.70
+Snapshot: incidents\SOS_20250920_064113_105_snapshot.jpg
+Location: Camera 1 - Main Surveillance Area
+Status: ACTIVE EMERGENCY
+Notification Sent: Processing...
+================
+
+
+INCIDENT REPORT
+================
+Incident ID: SOS_20250920_064113_547
+Timestamp: 2025-09-20 06:41:13
+Type: SOS Gesture Detection
+Gesture: hands_up
+Confidence: 0.70
+Snapshot: incidents\SOS_20250920_064113_547_snapshot.jpg
+Location: Camera 1 - Main Surveillance Area
+Status: ACTIVE EMERGENCY
+Notification Sent: Processing...
+================
+
+
+INCIDENT REPORT
+================
+Incident ID: SOS_20250920_064135_740
+Timestamp: 2025-09-20 06:41:35
+Type: SOS Gesture Detection
+Gesture: hands_up
+Confidence: 0.70
+Snapshot: incidents\SOS_20250920_064135_740_snapshot.jpg
+Location: Camera 1 - Main Surveillance Area
+Status: ACTIVE EMERGENCY
+Notification Sent: Processing...
+================
+
+
+INCIDENT REPORT
+================
+Incident ID: SOS_20250920_071550_198
+Timestamp: 2025-09-20 07:15:50
+Type: SOS Gesture Detection
+Gesture: hands_up
+Confidence: 0.70
+Snapshot: incidents\SOS_20250920_071550_198_snapshot.jpg
+Location: Camera 1 - Main Surveillance Area
+Status: ACTIVE EMERGENCY
+Notification Sent: Processing...
+================
+

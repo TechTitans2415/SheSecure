@@ -1,0 +1,3383 @@
+[
+  {
+    "id": "alert_1758329557813",
+    "timestamp": "2025-09-20T06:22:37.813881",
+    "type": "AGGRESSIVE_BEHAVIOR",
+    "severity": "CRITICAL",
+    "message": "Harassment scenario detected: AGGRESSIVE_BEHAVIOR (Confidence: 0.90)",
+    "details": {
+      "type": "AGGRESSIVE_BEHAVIOR",
+      "message": "Harassment scenario detected: AGGRESSIVE_BEHAVIOR (Confidence: 0.90)",
+      "severity": "CRITICAL",
+      "timestamp": 1758329557.8138814,
+      "confidence": 0.9
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758329558190",
+    "timestamp": "2025-09-20T06:22:38.190444",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758329558.1904442,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758329558565",
+    "timestamp": "2025-09-20T06:22:38.565352",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758329558.5653522,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758329558988",
+    "timestamp": "2025-09-20T06:22:38.988007",
+    "type": "AGGRESSIVE_BEHAVIOR",
+    "severity": "HIGH",
+    "message": "Harassment scenario detected: AGGRESSIVE_BEHAVIOR (Confidence: 0.70)",
+    "details": {
+      "type": "AGGRESSIVE_BEHAVIOR",
+      "message": "Harassment scenario detected: AGGRESSIVE_BEHAVIOR (Confidence: 0.70)",
+      "severity": "HIGH",
+      "timestamp": 1758329558.9880073,
+      "confidence": 0.7
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758329559420",
+    "timestamp": "2025-09-20T06:22:39.420957",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758329559.4209573,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758329560134",
+    "timestamp": "2025-09-20T06:22:40.134262",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758329560.1342628,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758329561190",
+    "timestamp": "2025-09-20T06:22:41.190187",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758329561.1901875,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758329561573",
+    "timestamp": "2025-09-20T06:22:41.573634",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758329561.5736349,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758329561926",
+    "timestamp": "2025-09-20T06:22:41.926166",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758329561.9261665,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758329562310",
+    "timestamp": "2025-09-20T06:22:42.310191",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758329562.3101914,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758329562665",
+    "timestamp": "2025-09-20T06:22:42.665795",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758329562.6657956,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758329563020",
+    "timestamp": "2025-09-20T06:22:43.020567",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758329563.020567,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758329563368",
+    "timestamp": "2025-09-20T06:22:43.368150",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758329563.36815,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758329563732",
+    "timestamp": "2025-09-20T06:22:43.732780",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758329563.73278,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758329564107",
+    "timestamp": "2025-09-20T06:22:44.107433",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758329564.1074333,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758329564533",
+    "timestamp": "2025-09-20T06:22:44.533084",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758329564.5330844,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758329564884",
+    "timestamp": "2025-09-20T06:22:44.884593",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758329564.884594,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758329564906",
+    "timestamp": "2025-09-20T06:22:44.906161",
+    "type": "AGGRESSIVE_BEHAVIOR",
+    "severity": "HIGH",
+    "message": "Harassment scenario detected: AGGRESSIVE_BEHAVIOR (Confidence: 0.70)",
+    "details": {
+      "type": "AGGRESSIVE_BEHAVIOR",
+      "message": "Harassment scenario detected: AGGRESSIVE_BEHAVIOR (Confidence: 0.70)",
+      "severity": "HIGH",
+      "timestamp": 1758329564.906161,
+      "confidence": 0.7
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758329565253",
+    "timestamp": "2025-09-20T06:22:45.253828",
+    "type": "AGGRESSIVE_BEHAVIOR",
+    "severity": "HIGH",
+    "message": "Harassment scenario detected: AGGRESSIVE_BEHAVIOR (Confidence: 0.70)",
+    "details": {
+      "type": "AGGRESSIVE_BEHAVIOR",
+      "message": "Harassment scenario detected: AGGRESSIVE_BEHAVIOR (Confidence: 0.70)",
+      "severity": "HIGH",
+      "timestamp": 1758329565.2538288,
+      "confidence": 0.7
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758329565602",
+    "timestamp": "2025-09-20T06:22:45.602032",
+    "type": "AGGRESSIVE_BEHAVIOR",
+    "severity": "HIGH",
+    "message": "Harassment scenario detected: AGGRESSIVE_BEHAVIOR (Confidence: 0.70)",
+    "details": {
+      "type": "AGGRESSIVE_BEHAVIOR",
+      "message": "Harassment scenario detected: AGGRESSIVE_BEHAVIOR (Confidence: 0.70)",
+      "severity": "HIGH",
+      "timestamp": 1758329565.6020327,
+      "confidence": 0.7
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758329565962",
+    "timestamp": "2025-09-20T06:22:45.962033",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758329565.962033,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758329565978",
+    "timestamp": "2025-09-20T06:22:45.978180",
+    "type": "AGGRESSIVE_BEHAVIOR",
+    "severity": "HIGH",
+    "message": "Harassment scenario detected: AGGRESSIVE_BEHAVIOR (Confidence: 0.70)",
+    "details": {
+      "type": "AGGRESSIVE_BEHAVIOR",
+      "message": "Harassment scenario detected: AGGRESSIVE_BEHAVIOR (Confidence: 0.70)",
+      "severity": "HIGH",
+      "timestamp": 1758329565.9781804,
+      "confidence": 0.7
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758329566444",
+    "timestamp": "2025-09-20T06:22:46.444105",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758329566.444106,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758329566458",
+    "timestamp": "2025-09-20T06:22:46.458310",
+    "type": "AGGRESSIVE_BEHAVIOR",
+    "severity": "HIGH",
+    "message": "Harassment scenario detected: AGGRESSIVE_BEHAVIOR (Confidence: 0.70)",
+    "details": {
+      "type": "AGGRESSIVE_BEHAVIOR",
+      "message": "Harassment scenario detected: AGGRESSIVE_BEHAVIOR (Confidence: 0.70)",
+      "severity": "HIGH",
+      "timestamp": 1758329566.4583108,
+      "confidence": 0.7
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758329566837",
+    "timestamp": "2025-09-20T06:22:46.837954",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758329566.8379545,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758329566855",
+    "timestamp": "2025-09-20T06:22:46.855450",
+    "type": "AGGRESSIVE_BEHAVIOR",
+    "severity": "HIGH",
+    "message": "Harassment scenario detected: AGGRESSIVE_BEHAVIOR (Confidence: 0.70)",
+    "details": {
+      "type": "AGGRESSIVE_BEHAVIOR",
+      "message": "Harassment scenario detected: AGGRESSIVE_BEHAVIOR (Confidence: 0.70)",
+      "severity": "HIGH",
+      "timestamp": 1758329566.8554504,
+      "confidence": 0.7
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758329567340",
+    "timestamp": "2025-09-20T06:22:47.340468",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758329567.3404686,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758329567352",
+    "timestamp": "2025-09-20T06:22:47.352799",
+    "type": "AGGRESSIVE_BEHAVIOR",
+    "severity": "HIGH",
+    "message": "Harassment scenario detected: AGGRESSIVE_BEHAVIOR (Confidence: 0.70)",
+    "details": {
+      "type": "AGGRESSIVE_BEHAVIOR",
+      "message": "Harassment scenario detected: AGGRESSIVE_BEHAVIOR (Confidence: 0.70)",
+      "severity": "HIGH",
+      "timestamp": 1758329567.3527997,
+      "confidence": 0.7
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758329567641",
+    "timestamp": "2025-09-20T06:22:47.641476",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758329567.6414764,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758329567653",
+    "timestamp": "2025-09-20T06:22:47.653496",
+    "type": "AGGRESSIVE_BEHAVIOR",
+    "severity": "HIGH",
+    "message": "Harassment scenario detected: AGGRESSIVE_BEHAVIOR (Confidence: 0.70)",
+    "details": {
+      "type": "AGGRESSIVE_BEHAVIOR",
+      "message": "Harassment scenario detected: AGGRESSIVE_BEHAVIOR (Confidence: 0.70)",
+      "severity": "HIGH",
+      "timestamp": 1758329567.6534965,
+      "confidence": 0.7
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758329567941",
+    "timestamp": "2025-09-20T06:22:47.941919",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758329567.9419198,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758329567953",
+    "timestamp": "2025-09-20T06:22:47.953215",
+    "type": "AGGRESSIVE_BEHAVIOR",
+    "severity": "HIGH",
+    "message": "Harassment scenario detected: AGGRESSIVE_BEHAVIOR (Confidence: 0.70)",
+    "details": {
+      "type": "AGGRESSIVE_BEHAVIOR",
+      "message": "Harassment scenario detected: AGGRESSIVE_BEHAVIOR (Confidence: 0.70)",
+      "severity": "HIGH",
+      "timestamp": 1758329567.953216,
+      "confidence": 0.7
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758329568283",
+    "timestamp": "2025-09-20T06:22:48.283305",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758329568.2833052,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758329568286",
+    "timestamp": "2025-09-20T06:22:48.286491",
+    "type": "AGGRESSIVE_BEHAVIOR",
+    "severity": "HIGH",
+    "message": "Harassment scenario detected: AGGRESSIVE_BEHAVIOR (Confidence: 0.70)",
+    "details": {
+      "type": "AGGRESSIVE_BEHAVIOR",
+      "message": "Harassment scenario detected: AGGRESSIVE_BEHAVIOR (Confidence: 0.70)",
+      "severity": "HIGH",
+      "timestamp": 1758329568.286491,
+      "confidence": 0.7
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758329568663",
+    "timestamp": "2025-09-20T06:22:48.663393",
+    "type": "AGGRESSIVE_BEHAVIOR",
+    "severity": "HIGH",
+    "message": "Harassment scenario detected: AGGRESSIVE_BEHAVIOR (Confidence: 0.70)",
+    "details": {
+      "type": "AGGRESSIVE_BEHAVIOR",
+      "message": "Harassment scenario detected: AGGRESSIVE_BEHAVIOR (Confidence: 0.70)",
+      "severity": "HIGH",
+      "timestamp": 1758329568.6633933,
+      "confidence": 0.7
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758329885144",
+    "timestamp": "2025-09-20T06:28:05.144679",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758329885.144679,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758329889698",
+    "timestamp": "2025-09-20T06:28:09.698851",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758329889.698851,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758329891565",
+    "timestamp": "2025-09-20T06:28:11.565490",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758329891.5654902,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758329899401",
+    "timestamp": "2025-09-20T06:28:19.401630",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758329899.40163,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758329907530",
+    "timestamp": "2025-09-20T06:28:27.530713",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758329907.5307133,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758329915018",
+    "timestamp": "2025-09-20T06:28:35.018627",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758329915.0186276,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330007967",
+    "timestamp": "2025-09-20T06:30:07.967402",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330007.9674022,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330009004",
+    "timestamp": "2025-09-20T06:30:09.004850",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330009.0048506,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330014339",
+    "timestamp": "2025-09-20T06:30:14.339952",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330014.3399525,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330017047",
+    "timestamp": "2025-09-20T06:30:17.047874",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330017.047875,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330022516",
+    "timestamp": "2025-09-20T06:30:22.516403",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330022.5164032,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330022779",
+    "timestamp": "2025-09-20T06:30:22.779851",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330022.7798514,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330025137",
+    "timestamp": "2025-09-20T06:30:25.137057",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330025.1370575,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330025413",
+    "timestamp": "2025-09-20T06:30:25.413646",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330025.413646,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330025729",
+    "timestamp": "2025-09-20T06:30:25.729702",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330025.7297025,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330026014",
+    "timestamp": "2025-09-20T06:30:26.014485",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330026.014486,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330026448",
+    "timestamp": "2025-09-20T06:30:26.448959",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330026.4489598,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330026811",
+    "timestamp": "2025-09-20T06:30:26.811291",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330026.811292,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330027008",
+    "timestamp": "2025-09-20T06:30:27.008471",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330027.0084713,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330027284",
+    "timestamp": "2025-09-20T06:30:27.284150",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330027.2841506,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330027500",
+    "timestamp": "2025-09-20T06:30:27.500479",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330027.5004795,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330027778",
+    "timestamp": "2025-09-20T06:30:27.778371",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330027.778371,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330027999",
+    "timestamp": "2025-09-20T06:30:27.999614",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330027.999615,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330029880",
+    "timestamp": "2025-09-20T06:30:29.880599",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330029.880599,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330055069",
+    "timestamp": "2025-09-20T06:30:55.069048",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330055.0690486,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330059083",
+    "timestamp": "2025-09-20T06:30:59.083813",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330059.0838137,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330059369",
+    "timestamp": "2025-09-20T06:30:59.369049",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330059.369049,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330059452",
+    "timestamp": "2025-09-20T06:30:59.452689",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330059.4526894,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330060027",
+    "timestamp": "2025-09-20T06:31:00.027762",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330060.0277622,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330060166",
+    "timestamp": "2025-09-20T06:31:00.166846",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330060.1668465,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330062454",
+    "timestamp": "2025-09-20T06:31:02.454571",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330062.4545715,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330063005",
+    "timestamp": "2025-09-20T06:31:03.005855",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330063.0058556,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330064002",
+    "timestamp": "2025-09-20T06:31:04.002026",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330064.002027,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330064731",
+    "timestamp": "2025-09-20T06:31:04.731628",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330064.731628,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330067486",
+    "timestamp": "2025-09-20T06:31:07.486864",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330067.4868648,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330068210",
+    "timestamp": "2025-09-20T06:31:08.210705",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330068.2107055,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330072173",
+    "timestamp": "2025-09-20T06:31:12.173663",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330072.1736639,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330076802",
+    "timestamp": "2025-09-20T06:31:16.802121",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330076.8021216,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330081383",
+    "timestamp": "2025-09-20T06:31:21.383396",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330081.3833964,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330081755",
+    "timestamp": "2025-09-20T06:31:21.755697",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330081.7556973,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330083354",
+    "timestamp": "2025-09-20T06:31:23.354268",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330083.3542683,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330088261",
+    "timestamp": "2025-09-20T06:31:28.261665",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330088.261665,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330089344",
+    "timestamp": "2025-09-20T06:31:29.344372",
+    "type": "AGGRESSIVE_BEHAVIOR",
+    "severity": "HIGH",
+    "message": "Harassment scenario detected: AGGRESSIVE_BEHAVIOR (Confidence: 0.70)",
+    "details": {
+      "type": "AGGRESSIVE_BEHAVIOR",
+      "message": "Harassment scenario detected: AGGRESSIVE_BEHAVIOR (Confidence: 0.70)",
+      "severity": "HIGH",
+      "timestamp": 1758330089.3443725,
+      "confidence": 0.7
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330091036",
+    "timestamp": "2025-09-20T06:31:31.036792",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330091.0367925,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330097348",
+    "timestamp": "2025-09-20T06:31:37.348777",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330097.3487773,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330101309",
+    "timestamp": "2025-09-20T06:31:41.309845",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330101.3098457,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330103265",
+    "timestamp": "2025-09-20T06:31:43.265395",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330103.2653952,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330108052",
+    "timestamp": "2025-09-20T06:31:48.052788",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330108.0527885,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330113964",
+    "timestamp": "2025-09-20T06:31:53.964734",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330113.9647348,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330125912",
+    "timestamp": "2025-09-20T06:32:05.912575",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330125.9125755,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330128417",
+    "timestamp": "2025-09-20T06:32:08.417130",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330128.4171307,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330129598",
+    "timestamp": "2025-09-20T06:32:09.598988",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330129.5989888,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330130046",
+    "timestamp": "2025-09-20T06:32:10.046939",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330130.0469396,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330130275",
+    "timestamp": "2025-09-20T06:32:10.275526",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330130.2755263,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330130501",
+    "timestamp": "2025-09-20T06:32:10.501973",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330130.5019732,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330131436",
+    "timestamp": "2025-09-20T06:32:11.436357",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330131.436358,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330135074",
+    "timestamp": "2025-09-20T06:32:15.074430",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330135.0744307,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330135900",
+    "timestamp": "2025-09-20T06:32:15.900277",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330135.9002779,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330136124",
+    "timestamp": "2025-09-20T06:32:16.124631",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330136.124631,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330136354",
+    "timestamp": "2025-09-20T06:32:16.354774",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330136.3547747,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330136599",
+    "timestamp": "2025-09-20T06:32:16.599810",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330136.5998106,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330139644",
+    "timestamp": "2025-09-20T06:32:19.644520",
+    "type": "AGGRESSIVE_BEHAVIOR",
+    "severity": "CRITICAL",
+    "message": "Harassment scenario detected: AGGRESSIVE_BEHAVIOR (Confidence: 0.90)",
+    "details": {
+      "type": "AGGRESSIVE_BEHAVIOR",
+      "message": "Harassment scenario detected: AGGRESSIVE_BEHAVIOR (Confidence: 0.90)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330139.6445205,
+      "confidence": 0.9
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330139884",
+    "timestamp": "2025-09-20T06:32:19.884506",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330139.8845062,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330140140",
+    "timestamp": "2025-09-20T06:32:20.140681",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330140.1406815,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330140917",
+    "timestamp": "2025-09-20T06:32:20.917303",
+    "type": "AGGRESSIVE_BEHAVIOR",
+    "severity": "CRITICAL",
+    "message": "Harassment scenario detected: AGGRESSIVE_BEHAVIOR (Confidence: 0.90)",
+    "details": {
+      "type": "AGGRESSIVE_BEHAVIOR",
+      "message": "Harassment scenario detected: AGGRESSIVE_BEHAVIOR (Confidence: 0.90)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330140.9173036,
+      "confidence": 0.9
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330141732",
+    "timestamp": "2025-09-20T06:32:21.732151",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330141.7321517,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330144348",
+    "timestamp": "2025-09-20T06:32:24.348360",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330144.3483605,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330144826",
+    "timestamp": "2025-09-20T06:32:24.826207",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330144.826207,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330145533",
+    "timestamp": "2025-09-20T06:32:25.533132",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330145.533132,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330146652",
+    "timestamp": "2025-09-20T06:32:26.652449",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330146.6524494,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330147560",
+    "timestamp": "2025-09-20T06:32:27.560255",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330147.560255,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330154158",
+    "timestamp": "2025-09-20T06:32:34.158461",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330154.158461,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330156941",
+    "timestamp": "2025-09-20T06:32:36.941127",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330156.941127,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330157295",
+    "timestamp": "2025-09-20T06:32:37.295105",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330157.295105,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330157507",
+    "timestamp": "2025-09-20T06:32:37.507297",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330157.5072973,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330157724",
+    "timestamp": "2025-09-20T06:32:37.724695",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330157.7246954,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330158185",
+    "timestamp": "2025-09-20T06:32:38.185889",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330158.1858895,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330158837",
+    "timestamp": "2025-09-20T06:32:38.837129",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330158.837129,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330160646",
+    "timestamp": "2025-09-20T06:32:40.646994",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330160.6469946,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330167206",
+    "timestamp": "2025-09-20T06:32:47.206038",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330167.2060382,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330169811",
+    "timestamp": "2025-09-20T06:32:49.811082",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330169.8110828,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330170225",
+    "timestamp": "2025-09-20T06:32:50.225003",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330170.2250035,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330171749",
+    "timestamp": "2025-09-20T06:32:51.749796",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330171.7497962,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330178803",
+    "timestamp": "2025-09-20T06:32:58.803602",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330178.8036022,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330183980",
+    "timestamp": "2025-09-20T06:33:03.980191",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330183.9801912,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330186860",
+    "timestamp": "2025-09-20T06:33:06.860717",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330186.8607178,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330187137",
+    "timestamp": "2025-09-20T06:33:07.137790",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330187.1377902,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330187388",
+    "timestamp": "2025-09-20T06:33:07.388537",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330187.3885376,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330194572",
+    "timestamp": "2025-09-20T06:33:14.572548",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330194.5725482,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330200950",
+    "timestamp": "2025-09-20T06:33:20.950534",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330200.9505346,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330208254",
+    "timestamp": "2025-09-20T06:33:28.254324",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330208.254325,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330217676",
+    "timestamp": "2025-09-20T06:33:37.676401",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330217.6764016,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330235105",
+    "timestamp": "2025-09-20T06:33:55.105917",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330235.105917,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330243601",
+    "timestamp": "2025-09-20T06:34:03.601720",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330243.6017208,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330249580",
+    "timestamp": "2025-09-20T06:34:09.580021",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330249.5800216,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330260844",
+    "timestamp": "2025-09-20T06:34:20.844290",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330260.8442907,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330264038",
+    "timestamp": "2025-09-20T06:34:24.038165",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330264.038166,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330264258",
+    "timestamp": "2025-09-20T06:34:24.258056",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330264.2580566,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330264476",
+    "timestamp": "2025-09-20T06:34:24.476228",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330264.4762287,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330265596",
+    "timestamp": "2025-09-20T06:34:25.596187",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330265.596187,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330266108",
+    "timestamp": "2025-09-20T06:34:26.108353",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330266.1083531,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330271164",
+    "timestamp": "2025-09-20T06:34:31.164256",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330271.1642563,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330275420",
+    "timestamp": "2025-09-20T06:34:35.420373",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330275.420373,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330276332",
+    "timestamp": "2025-09-20T06:34:36.332126",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330276.3321261,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330281036",
+    "timestamp": "2025-09-20T06:34:41.036085",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330281.0360854,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330281740",
+    "timestamp": "2025-09-20T06:34:41.740121",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330281.7401211,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330285118",
+    "timestamp": "2025-09-20T06:34:45.118025",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330285.118025,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330285308",
+    "timestamp": "2025-09-20T06:34:45.308159",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330285.3081596,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330285976",
+    "timestamp": "2025-09-20T06:34:45.976130",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330285.9761307,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330286188",
+    "timestamp": "2025-09-20T06:34:46.188778",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330286.1887786,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330286428",
+    "timestamp": "2025-09-20T06:34:46.428174",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330286.4281745,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330286909",
+    "timestamp": "2025-09-20T06:34:46.909003",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330286.9090035,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330295726",
+    "timestamp": "2025-09-20T06:34:55.726238",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330295.726239,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330302160",
+    "timestamp": "2025-09-20T06:35:02.160473",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330302.1604736,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330305759",
+    "timestamp": "2025-09-20T06:35:05.759144",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330305.7591438,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330306451",
+    "timestamp": "2025-09-20T06:35:06.451732",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330306.4517326,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330306920",
+    "timestamp": "2025-09-20T06:35:06.920046",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330306.920046,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330308666",
+    "timestamp": "2025-09-20T06:35:08.666134",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330308.6661344,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330311853",
+    "timestamp": "2025-09-20T06:35:11.853655",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330311.8536556,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330312059",
+    "timestamp": "2025-09-20T06:35:12.059802",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330312.0598028,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330317980",
+    "timestamp": "2025-09-20T06:35:17.980057",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330317.980058,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330322640",
+    "timestamp": "2025-09-20T06:35:22.640234",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330322.6402345,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330323143",
+    "timestamp": "2025-09-20T06:35:23.143356",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330323.143356,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330326155",
+    "timestamp": "2025-09-20T06:35:26.155771",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330326.155772,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330326396",
+    "timestamp": "2025-09-20T06:35:26.396398",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330326.396398,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330328267",
+    "timestamp": "2025-09-20T06:35:28.267900",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330328.2679005,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330331580",
+    "timestamp": "2025-09-20T06:35:31.580383",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330331.580383,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330341873",
+    "timestamp": "2025-09-20T06:35:41.873180",
+    "type": "AGGRESSIVE_BEHAVIOR",
+    "severity": "HIGH",
+    "message": "Harassment scenario detected: AGGRESSIVE_BEHAVIOR (Confidence: 0.70)",
+    "details": {
+      "type": "AGGRESSIVE_BEHAVIOR",
+      "message": "Harassment scenario detected: AGGRESSIVE_BEHAVIOR (Confidence: 0.70)",
+      "severity": "HIGH",
+      "timestamp": 1758330341.8731806,
+      "confidence": 0.7
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330342410",
+    "timestamp": "2025-09-20T06:35:42.410835",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330342.4108357,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330348148",
+    "timestamp": "2025-09-20T06:35:48.148531",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330348.1485314,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330355745",
+    "timestamp": "2025-09-20T06:35:55.745230",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330355.7452302,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330359035",
+    "timestamp": "2025-09-20T06:35:59.035992",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330359.0359929,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330359805",
+    "timestamp": "2025-09-20T06:35:59.805048",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330359.8050482,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330365623",
+    "timestamp": "2025-09-20T06:36:05.623265",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330365.623265,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330374396",
+    "timestamp": "2025-09-20T06:36:14.396052",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330374.3960521,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330380316",
+    "timestamp": "2025-09-20T06:36:20.316559",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330380.3165596,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330384461",
+    "timestamp": "2025-09-20T06:36:24.461460",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330384.46146,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330385171",
+    "timestamp": "2025-09-20T06:36:25.171405",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330385.1714058,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330385438",
+    "timestamp": "2025-09-20T06:36:25.438400",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330385.4384005,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330388532",
+    "timestamp": "2025-09-20T06:36:28.532902",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330388.5329027,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330389639",
+    "timestamp": "2025-09-20T06:36:29.639098",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330389.6390982,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330395601",
+    "timestamp": "2025-09-20T06:36:35.601647",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330395.6016479,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330400621",
+    "timestamp": "2025-09-20T06:36:40.621359",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330400.621359,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330407122",
+    "timestamp": "2025-09-20T06:36:47.122908",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330407.1229084,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330416955",
+    "timestamp": "2025-09-20T06:36:56.955474",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330416.955474,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330423999",
+    "timestamp": "2025-09-20T06:37:03.999466",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330423.9994667,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330432304",
+    "timestamp": "2025-09-20T06:37:12.304559",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330432.3045595,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330446941",
+    "timestamp": "2025-09-20T06:37:26.941204",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330446.9412043,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330452591",
+    "timestamp": "2025-09-20T06:37:32.591602",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330452.5916023,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330461812",
+    "timestamp": "2025-09-20T06:37:41.812814",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330461.812814,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330470172",
+    "timestamp": "2025-09-20T06:37:50.172399",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330470.1723998,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330477378",
+    "timestamp": "2025-09-20T06:37:57.378383",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330477.3783834,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330484062",
+    "timestamp": "2025-09-20T06:38:04.062675",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330484.062676,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330491913",
+    "timestamp": "2025-09-20T06:38:11.913541",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330491.913541,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330552823",
+    "timestamp": "2025-09-20T06:39:12.823754",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330552.823755,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330591926",
+    "timestamp": "2025-09-20T06:39:51.926206",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330591.926206,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330598304",
+    "timestamp": "2025-09-20T06:39:58.304708",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330598.3047087,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330615017",
+    "timestamp": "2025-09-20T06:40:15.017977",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330615.0179777,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330620134",
+    "timestamp": "2025-09-20T06:40:20.134408",
+    "type": "KIDNAP_ATTEMPT",
+    "severity": "CRITICAL",
+    "message": "Harassment scenario detected: KIDNAP_ATTEMPT (Confidence: 0.90)",
+    "details": {
+      "type": "KIDNAP_ATTEMPT",
+      "message": "Harassment scenario detected: KIDNAP_ATTEMPT (Confidence: 0.90)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330620.1344087,
+      "confidence": 0.9
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330650125",
+    "timestamp": "2025-09-20T06:40:50.125648",
+    "type": "MANUAL_EMERGENCY",
+    "severity": "CRITICAL",
+    "message": "Manual emergency button activated from UI",
+    "details": {
+      "type": "MANUAL_EMERGENCY",
+      "message": "Manual emergency button activated from UI",
+      "severity": "CRITICAL",
+      "timestamp": 1758330650.1256487,
+      "location": "Manual trigger from UI"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330660223",
+    "timestamp": "2025-09-20T06:41:00.223380",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330660.2233799,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330673050",
+    "timestamp": "2025-09-20T06:41:13.050743",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330673.0507433,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330673515",
+    "timestamp": "2025-09-20T06:41:13.515859",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330673.5158594,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758330695710",
+    "timestamp": "2025-09-20T06:41:35.710259",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758330695.71026,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  },
+  {
+    "id": "alert_1758332750180",
+    "timestamp": "2025-09-20T07:15:50.180732",
+    "type": "SOS_GESTURE",
+    "severity": "CRITICAL",
+    "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+    "details": {
+      "type": "SOS_GESTURE",
+      "message": "SOS gesture detected: hands_up (Confidence: 0.70)",
+      "severity": "CRITICAL",
+      "timestamp": 1758332750.180733,
+      "confidence": 0.7,
+      "gesture_type": "hands_up"
+    },
+    "status": "ACTIVE",
+    "acknowledged": false
+  }
+]

@@ -1,0 +1,14 @@
+flask
+flask-socketio
+opencv-python
+torch
+ultralytics
+mediapipe
+geocoder
+plotly
+deepface
+tf-keras
+tensorflow
+pygame
+geocoder
+requests

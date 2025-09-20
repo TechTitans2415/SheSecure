@@ -1,0 +1,30 @@
+{
+  "emergency_id": "EMERGENCY_1758317669288",
+  "timestamp": "2025-09-20T03:04:29.288940",
+  "alert_data": {
+    "type": "LONE_WOMAN",
+    "severity": "HIGH",
+    "message": "Lone woman detected - potential safety concern",
+    "duration": 5.009341239929199,
+    "location": [
+      350,
+      300
+    ]
+  },
+  "location": {
+    "latitude": 13.0878,
+    "longitude": 80.2785,
+    "address": "Chennai, Tamil Nadu, IN",
+    "city": "Chennai",
+    "country": "IN",
+    "ip": "117.250.229.185"
+  },
+  "snapshot_path": "emergency_snapshots/EMERGENCY_1758317669288_20250920_030429.jpg",
+  "response_actions": [
+    {
+      "action": "notifications_sent",
+      "timestamp": "2025-09-20T03:04:32.161708",
+      "status": "attempted"
+    }
+  ]
+}

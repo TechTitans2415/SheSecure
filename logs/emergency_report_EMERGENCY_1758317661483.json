@@ -1,0 +1,31 @@
+{
+  "emergency_id": "EMERGENCY_1758317661483",
+  "timestamp": "2025-09-20T03:04:21.483360",
+  "alert_data": {
+    "type": "WOMAN_SURROUNDED",
+    "severity": "CRITICAL",
+    "message": "Woman surrounded by 3 men - immediate attention required",
+    "duration": 3.003511428833008,
+    "men_count": 3,
+    "location": [
+      150,
+      300
+    ]
+  },
+  "location": {
+    "latitude": 13.0878,
+    "longitude": 80.2785,
+    "address": "Chennai, Tamil Nadu, IN",
+    "city": "Chennai",
+    "country": "IN",
+    "ip": "117.250.229.185"
+  },
+  "snapshot_path": "emergency_snapshots/EMERGENCY_1758317661483_20250920_030421.jpg",
+  "response_actions": [
+    {
+      "action": "notifications_sent",
+      "timestamp": "2025-09-20T03:04:24.272711",
+      "status": "attempted"
+    }
+  ]
+}

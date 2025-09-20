@@ -1,0 +1,356 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Women Safety Analytics - Emergency Response System</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 20px;
+      background-color: #f5f5f5;
+    }
+    
+    .header {
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      color: white;
+      padding: 20px;
+      border-radius: 10px;
+      margin-bottom: 20px;
+      text-align: center;
+    }
+    
+    .main-container {
+      display: flex;
+      gap: 20px;
+      flex-wrap: wrap;
+    }
+    
+    .video-section {
+      flex: 2;
+      min-width: 600px;
+    }
+    
+    .info-section {
+      flex: 1;
+      min-width: 300px;
+    }
+    
+    .video-container {
+      background: white;
+      border-radius: 10px;
+      padding: 20px;
+      box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+      position: relative;
+    }
+    
+    .emergency-status {
+      background: #fff3cd;
+      border: 2px solid #ffeaa7;
+      border-radius: 8px;
+      padding: 15px;
+      margin-bottom: 20px;
+    }
+    
+    .emergency-active {
+      background: #f8d7da !important;
+      border-color: #dc3545 !important;
+      animation: pulse 2s infinite;
+    }
+    
+    @keyframes pulse {
+      0% { opacity: 1; }
+      50% { opacity: 0.7; }
+      100% { opacity: 1; }
+    }
+    
+    .status-card {
+      background: white;
+      border-radius: 8px;
+      padding: 15px;
+      margin-bottom: 15px;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    }
+    
+    .alert-item {
+      background: #fff3cd;
+      border-left: 4px solid #ffc107;
+      padding: 10px;
+      margin-bottom: 10px;
+      border-radius: 4px;
+    }
+    
+    .alert-critical {
+      background: #f8d7da;
+      border-left-color: #dc3545;
+    }
+    
+    .alert-high {
+      background: #f8d7da;
+      border-left-color: #fd7e14;
+    }
+    
+    .btn {
+      padding: 10px 20px;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      font-weight: bold;
+    }
+    
+    .btn-emergency {
+      background: #dc3545;
+      color: white;
+      font-size: 16px;
+    }
+    
+    .btn-dashboard {
+      background: #007bff;
+      color: white;
+    }
+    
+    .stats-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 10px;
+      margin-top: 15px;
+    }
+    
+    .stat-box {
+      background: #e9ecef;
+      padding: 10px;
+      border-radius: 5px;
+      text-align: center;
+    }
+    
+    .emergency-workflow {
+      background: #d1ecf1;
+      border: 1px solid #bee5eb;
+      border-radius: 8px;
+      padding: 15px;
+      margin-top: 20px;
+    }
+    
+    .workflow-step {
+      display: flex;
+      align-items: center;
+      margin-bottom: 10px;
+      padding: 8px;
+      background: white;
+      border-radius: 5px;
+    }
+    
+    .step-number {
+      background: #007bff;
+      color: white;
+      width: 25px;
+      height: 25px;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin-right: 10px;
+      font-weight: bold;
+      font-size: 12px;
+    }
+  </style>
+</head>
+<body>
+  <div class="header">
+    <h1>🚨 Women Safety Analytics - Emergency Response System 🚨</h1>
+    <p>Real-time monitoring with automatic SOS detection and emergency response</p>
+  </div>
+
+  <div class="main-container">
+    <!-- Video Feed Section -->
+    <div class="video-section">
+      <div class="video-container">
+        <h3>Live Security Feed</h3>
+        <img src="{{ url_for('video_feed') }}" style="width: 100%; border-radius: 8px;">
+        
+        <!-- Emergency Status -->
+        <div id="emergency-status" class="emergency-status">
+          <h4>🟢 System Status: MONITORING</h4>
+          <p>AI-powered detection active. Emergency response ready.</p>
+          <div id="emergency-details"></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Information Section -->
+    <div class="info-section">
+      <!-- Active Alerts -->
+      <div class="status-card">
+        <h4>🚨 Active Alerts</h4>
+        <div id="active-alerts">
+          <p>No active alerts</p>
+        </div>
+        <button class="btn btn-dashboard" onclick="window.open('/dashboard', '_blank')">
+          View Full Dashboard
+        </button>
+      </div>
+
+      <!-- System Statistics -->
+      <div class="status-card">
+        <h4>📊 Detection Statistics</h4>
+        <div id="stats-display">
+          <div class="stats-grid">
+            <div class="stat-box">
+              <strong id="people-count">0</strong><br>People Detected
+            </div>
+            <div class="stat-box">
+              <strong id="women-count">0</strong><br>Women Detected
+            </div>
+            <div class="stat-box">
+              <strong id="alerts-today">0</strong><br>Alerts Today
+            </div>
+            <div class="stat-box">
+              <strong id="system-uptime">Active</strong><br>System Status
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Emergency Workflow -->
+      <div class="emergency-workflow">
+        <h4>🆘 SOS Emergency Workflow</h4>
+        <div class="workflow-step">
+          <div class="step-number">1</div>
+          <div>AI detects danger scenario (lone woman/surrounded)</div>
+        </div>
+        <div class="workflow-step">
+          <div class="step-number">2</div>
+          <div>Immediate snapshot capture with timestamp</div>
+        </div>
+        <div class="workflow-step">
+          <div class="step-number">3</div>
+          <div>Location detection (GPS/IP geolocation)</div>
+        </div>
+        <div class="workflow-step">
+          <div class="step-number">4</div>
+          <div>Audio/Visual alarm activation</div>
+        </div>
+        <div class="workflow-step">
+          <div class="step-number">5</div>
+          <div>Automatic notification to authorities</div>
+        </div>
+        <div class="workflow-step">
+          <div class="step-number">6</div>
+          <div>Emergency report generation</div>
+        </div>
+      </div>
+
+      <!-- Manual Emergency Button -->
+      <div class="status-card">
+        <button class="btn btn-emergency" onclick="triggerManualEmergency()" style="width: 100%;">
+          🚨 MANUAL EMERGENCY ALERT 🚨
+        </button>
+        <small style="color: #666;">Click only in real emergency situations</small>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    // Auto-refresh data every 2 seconds
+    setInterval(updateSystemData, 2000);
+
+    function updateSystemData() {
+      // Update active alerts
+      fetch('/api/alerts/active')
+        .then(response => response.json())
+        .then(data => {
+          if (data.success) {
+            updateActiveAlerts(data.alerts);
+          }
+        })
+        .catch(error => console.error('Error fetching alerts:', error));
+
+      // Update statistics
+      fetch('/api/alerts/stats')
+        .then(response => response.json())
+        .then(data => {
+          if (data.success) {
+            updateStatistics(data.stats);
+          }
+        })
+        .catch(error => console.error('Error fetching stats:', error));
+    }
+
+    function updateActiveAlerts(alerts) {
+      const alertsContainer = document.getElementById('active-alerts');
+      const emergencyStatus = document.getElementById('emergency-status');
+      
+      if (alerts.length === 0) {
+        alertsContainer.innerHTML = '<p>No active alerts</p>';
+        emergencyStatus.className = 'emergency-status';
+        emergencyStatus.innerHTML = `
+          <h4>🟢 System Status: MONITORING</h4>
+          <p>AI-powered detection active. Emergency response ready.</p>
+        `;
+      } else {
+        // Show active alerts
+        alertsContainer.innerHTML = alerts.map(alert => `
+          <div class="alert-item alert-${alert.severity.toLowerCase()}">
+            <strong>${alert.type}</strong><br>
+            <small>${alert.message}</small><br>
+            <small>Time: ${new Date(alert.timestamp).toLocaleString()}</small>
+          </div>
+        `).join('');
+
+        // Check for critical/high alerts
+        const criticalAlerts = alerts.filter(a => a.severity === 'CRITICAL' || a.severity === 'HIGH');
+        if (criticalAlerts.length > 0) {
+          emergencyStatus.className = 'emergency-status emergency-active';
+          emergencyStatus.innerHTML = `
+            <h4>🔴 EMERGENCY ACTIVE</h4>
+            <p><strong>${criticalAlerts.length} critical situation(s) detected!</strong></p>
+            <p>Emergency response has been activated.</p>
+            <div id="emergency-details">
+              ${criticalAlerts.map(alert => `
+                <p><strong>${alert.type}:</strong> ${alert.message}</p>
+              `).join('')}
+            </div>
+          `;
+        }
+      }
+    }
+
+    function updateStatistics(stats) {
+      document.getElementById('people-count').textContent = stats.total_detections || 0;
+      document.getElementById('women-count').textContent = stats.women_detections || 0;
+      document.getElementById('alerts-today').textContent = stats.alerts_today || 0;
+    }
+
+    function triggerManualEmergency() {
+      if (confirm('Are you sure you want to trigger a manual emergency alert? This will notify authorities immediately.')) {
+        fetch('/api/emergency/manual', {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json',
+          },
+          body: JSON.stringify({
+            type: 'MANUAL_EMERGENCY',
+            message: 'Manual emergency button activated',
+            severity: 'CRITICAL'
+          })
+        })
+        .then(response => response.json())
+        .then(data => {
+          if (data.success) {
+            alert('Emergency alert activated! Authorities have been notified.');
+          } else {
+            alert('Error activating emergency alert: ' + data.error);
+          }
+        })
+        .catch(error => {
+          console.error('Error:', error);
+          alert('Error activating emergency alert');
+        });
+      }
+    }
+
+    // Initial data load
+    updateSystemData();
+  </script>
+</body>
+</html>

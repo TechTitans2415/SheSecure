@@ -1,0 +1,398 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CCTV AI Dashboard - Security Monitoring</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <style>
+        .dashboard-container {
+            display: grid;
+            grid-template-columns: 2fr 1fr;
+            gap: 20px;
+            padding: 20px;
+            max-width: 1400px;
+            margin: 0 auto;
+        }
+        
+        .video-section {
+            background: #1a1a1a;
+            border-radius: 10px;
+            padding: 20px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+        }
+        
+        .alerts-section {
+            background: #1a1a1a;
+            border-radius: 10px;
+            padding: 20px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+            max-height: 80vh;
+            overflow-y: auto;
+        }
+        
+        .alert-item {
+            background: #2a2a2a;
+            border-radius: 8px;
+            padding: 15px;
+            margin-bottom: 10px;
+            border-left: 4px solid;
+        }
+        
+        .alert-critical {
+            border-left-color: #ff4444;
+            background: rgba(255, 68, 68, 0.1);
+        }
+        
+        .alert-high {
+            border-left-color: #ff8800;
+            background: rgba(255, 136, 0, 0.1);
+        }
+        
+        .alert-medium {
+            border-left-color: #ffdd00;
+            background: rgba(255, 221, 0, 0.1);
+        }
+        
+        .alert-header {
+            display: flex;
+            justify-content: between;
+            align-items: center;
+            margin-bottom: 8px;
+        }
+        
+        .alert-type {
+            font-weight: bold;
+            color: #fff;
+        }
+        
+        .alert-time {
+            font-size: 0.8em;
+            color: #aaa;
+        }
+        
+        .alert-message {
+            color: #ddd;
+            margin-bottom: 10px;
+        }
+        
+        .alert-actions {
+            display: flex;
+            gap: 10px;
+        }
+        
+        .btn-small {
+            padding: 5px 10px;
+            font-size: 0.8em;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+        
+        .btn-acknowledge {
+            background: #4CAF50;
+            color: white;
+        }
+        
+        .btn-clear {
+            background: #f44336;
+            color: white;
+        }
+        
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+            gap: 15px;
+            margin-bottom: 20px;
+        }
+        
+        .stat-card {
+            background: #2a2a2a;
+            padding: 15px;
+            border-radius: 8px;
+            text-align: center;
+        }
+        
+        .stat-number {
+            font-size: 2em;
+            font-weight: bold;
+            color: #4CAF50;
+        }
+        
+        .stat-label {
+            color: #aaa;
+            font-size: 0.9em;
+        }
+        
+        .status-indicator {
+            display: inline-block;
+            width: 12px;
+            height: 12px;
+            border-radius: 50%;
+            margin-right: 8px;
+        }
+        
+        .status-active {
+            background: #4CAF50;
+        }
+        
+        .status-inactive {
+            background: #f44336;
+        }
+        
+        .refresh-btn {
+            background: #2196F3;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+            cursor: pointer;
+            margin-bottom: 15px;
+        }
+        
+        .no-alerts {
+            text-align: center;
+            color: #aaa;
+            padding: 40px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>🔒 CCTV AI Security Dashboard</h1>
+        <nav>
+            <a href="/">Live Feed</a>
+            <a href="/dashboard" class="active">Dashboard</a>
+        </nav>
+    </header>
+
+    <div class="dashboard-container">
+        <!-- Video Feed Section -->
+        <div class="video-section">
+            <h2>Live Video Feed</h2>
+            <div class="video-container">
+                <img src="{{ url_for('video_feed') }}" alt="Live Feed" style="width: 100%; max-width: 800px; border-radius: 8px;">
+            </div>
+            
+            <!-- System Status -->
+            <div class="stats-grid" style="margin-top: 20px;">
+                <div class="stat-card">
+                    <div class="stat-number" id="people-count">-</div>
+                    <div class="stat-label">People Detected</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number" id="women-count">-</div>
+                    <div class="stat-label">Women</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number" id="men-count">-</div>
+                    <div class="stat-label">Men</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number" id="alert-count">-</div>
+                    <div class="stat-label">Active Alerts</div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Alerts Section -->
+        <div class="alerts-section">
+            <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
+                <h2>🚨 Security Alerts</h2>
+                <button class="refresh-btn" onclick="refreshAlerts()">Refresh</button>
+            </div>
+            
+            <!-- System Status -->
+            <div style="margin-bottom: 20px; padding: 15px; background: #2a2a2a; border-radius: 8px;">
+                <div style="display: flex; align-items: center; margin-bottom: 10px;">
+                    <span class="status-indicator status-active" id="system-status"></span>
+                    <span style="color: #fff; font-weight: bold;">System Status: <span id="status-text">Active</span></span>
+                </div>
+                <div style="color: #aaa; font-size: 0.9em;" id="last-detection">Last detection: -</div>
+            </div>
+            
+            <!-- Active Alerts -->
+            <h3 style="color: #fff; margin-bottom: 15px;">Active Alerts</h3>
+            <div id="active-alerts">
+                <div class="no-alerts">No active alerts</div>
+            </div>
+            
+            <!-- Alert History -->
+            <h3 style="color: #fff; margin: 30px 0 15px 0;">Recent History</h3>
+            <div id="alert-history">
+                <div class="no-alerts">No recent alerts</div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Auto-refresh alerts every 5 seconds
+        setInterval(refreshAlerts, 5000);
+        
+        // Initial load
+        refreshAlerts();
+        
+        function refreshAlerts() {
+            fetchActiveAlerts();
+            fetchAlertHistory();
+            fetchSystemStatus();
+            fetchAlertStats();
+        }
+        
+        function fetchActiveAlerts() {
+            fetch('/api/alerts/active')
+                .then(response => response.json())
+                .then(data => {
+                    if (data.success) {
+                        displayActiveAlerts(data.alerts);
+                    }
+                })
+                .catch(error => console.error('Error fetching active alerts:', error));
+        }
+        
+        function fetchAlertHistory() {
+            fetch('/api/alerts/history?limit=20')
+                .then(response => response.json())
+                .then(data => {
+                    if (data.success) {
+                        displayAlertHistory(data.history);
+                    }
+                })
+                .catch(error => console.error('Error fetching alert history:', error));
+        }
+        
+        function fetchSystemStatus() {
+            fetch('/api/system/status')
+                .then(response => response.json())
+                .then(data => {
+                    if (data.success) {
+                        updateSystemStatus(data.status);
+                    }
+                })
+                .catch(error => console.error('Error fetching system status:', error));
+        }
+        
+        function fetchAlertStats() {
+            fetch('/api/alerts/stats')
+                .then(response => response.json())
+                .then(data => {
+                    if (data.success) {
+                        updateStats(data.stats);
+                    }
+                })
+                .catch(error => console.error('Error fetching alert stats:', error));
+        }
+        
+        function displayActiveAlerts(alerts) {
+            const container = document.getElementById('active-alerts');
+            
+            if (alerts.length === 0) {
+                container.innerHTML = '<div class="no-alerts">✅ No active alerts</div>';
+                return;
+            }
+            
+            container.innerHTML = alerts.map(alert => `
+                <div class="alert-item alert-${alert.severity.toLowerCase()}">
+                    <div class="alert-header">
+                        <span class="alert-type">${getSeverityIcon(alert.severity)} ${alert.type}</span>
+                        <span class="alert-time">${formatTime(alert.timestamp)}</span>
+                    </div>
+                    <div class="alert-message">${alert.message}</div>
+                    <div class="alert-actions">
+                        <button class="btn-small btn-acknowledge" onclick="acknowledgeAlert('${alert.id}')">
+                            Acknowledge
+                        </button>
+                        <button class="btn-small btn-clear" onclick="clearAlert('${alert.id}')">
+                            Clear
+                        </button>
+                    </div>
+                </div>
+            `).join('');
+        }
+        
+        function displayAlertHistory(history) {
+            const container = document.getElementById('alert-history');
+            
+            if (history.length === 0) {
+                container.innerHTML = '<div class="no-alerts">No recent alerts</div>';
+                return;
+            }
+            
+            container.innerHTML = history.slice(-10).map(alert => `
+                <div class="alert-item alert-${alert.severity.toLowerCase()}" style="opacity: 0.7;">
+                    <div class="alert-header">
+                        <span class="alert-type">${getSeverityIcon(alert.severity)} ${alert.type}</span>
+                        <span class="alert-time">${formatTime(alert.timestamp)}</span>
+                    </div>
+                    <div class="alert-message">${alert.message}</div>
+                </div>
+            `).join('');
+        }
+        
+        function updateSystemStatus(status) {
+            document.getElementById('status-text').textContent = status.status;
+            document.getElementById('last-detection').textContent = 
+                `Last detection: ${status.last_detection ? formatTime(status.last_detection) : 'Never'}`;
+                
+            if (status.current_count) {
+                document.getElementById('people-count').textContent = status.current_count.total || 0;
+                document.getElementById('women-count').textContent = status.current_count.women || 0;
+                document.getElementById('men-count').textContent = status.current_count.men || 0;
+            }
+        }
+        
+        function updateStats(stats) {
+            document.getElementById('alert-count').textContent = stats.active_alerts || 0;
+        }
+        
+        function getSeverityIcon(severity) {
+            const icons = {
+                'CRITICAL': '🚨',
+                'HIGH': '⚠️',
+                'MEDIUM': '⚡',
+                'LOW': 'ℹ️'
+            };
+            return icons[severity] || '📢';
+        }
+        
+        function formatTime(timestamp) {
+            return new Date(timestamp).toLocaleTimeString();
+        }
+        
+        function acknowledgeAlert(alertId) {
+            fetch('/api/alerts/acknowledge', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({ alert_id: alertId })
+            })
+            .then(response => response.json())
+            .then(data => {
+                if (data.success) {
+                    refreshAlerts();
+                }
+            })
+            .catch(error => console.error('Error acknowledging alert:', error));
+        }
+        
+        function clearAlert(alertId) {
+            fetch('/api/alerts/clear', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({ alert_id: alertId })
+            })
+            .then(response => response.json())
+            .then(data => {
+                if (data.success) {
+                    refreshAlerts();
+                }
+            })
+            .catch(error => console.error('Error clearing alert:', error));
+        }
+    </script>
+</body>
+</html>

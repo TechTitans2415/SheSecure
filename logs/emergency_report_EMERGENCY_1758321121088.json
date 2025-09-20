@@ -1,0 +1,39 @@
+{
+  "emergency_id": "EMERGENCY_1758321121088",
+  "timestamp": "2025-09-20T04:02:01.088350",
+  "alert_data": {
+    "type": "LONE_WOMAN_AFTER_MEN",
+    "severity": "HIGH",
+    "message": "\u26a0\ufe0f Woman alone after 1 men left area - enhanced monitoring",
+    "duration": 0.0,
+    "location": [
+      320,
+      290
+    ],
+    "requires_snapshot": true,
+    "previous_men_count": 1
+  },
+  "location": {
+    "latitude": 13.0878,
+    "longitude": 80.2785,
+    "address": "Chennai, Tamil Nadu, IN",
+    "city": "Chennai",
+    "country": "IN",
+    "ip": "117.250.229.185",
+    "method": "IP-based",
+    "timestamp": "2025-09-20T04:02:01.370521",
+    "local_time": "2025-09-20 04:02:01",
+    "google_maps_url": "https://www.google.com/maps?q=13.0878,80.2785"
+  },
+  "snapshot_path": "emergency_snapshots/EMERGENCY_1758321121088_20250920_040201.jpg",
+  "response_actions": [
+    {
+      "action": "notifications_prepared",
+      "timestamp": "2025-09-20T04:02:01.490582",
+      "status": "ready"
+    }
+  ],
+  "ui_display": true,
+  "alarm_triggered": true,
+  "notifications_sent": true
+}

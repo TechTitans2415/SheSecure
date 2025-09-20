@@ -1,0 +1,84 @@
+{
+  "emergency_contacts": {
+    "police": {
+      "phone": "+1-911",
+      "email": "police@emergency.local",
+      "sms_api": null,
+      "description": "Primary emergency contact - Police Department"
+    },
+    "security": {
+      "phone": "+1-xxx-xxx-xxxx",
+      "email": "security@company.com",
+      "description": "Security team contact"
+    },
+    "management": {
+      "phone": "+1-xxx-xxx-xxxx",
+      "email": "management@company.com",
+      "description": "Management/supervisor contact"
+    }
+  },
+  
+  "location_settings": {
+    "static_location": {
+      "name": "CCTV Security Camera - Building A",
+      "address": "123 Security Street, Your City, State, Country",
+      "latitude": 28.6139,
+      "longitude": 77.2090,
+      "description": "Main entrance security camera"
+    },
+    "use_dynamic_location": true,
+    "location_description": "Replace with actual camera location details"
+  },
+  
+  "notification_settings": {
+    "email": {
+      "enabled": false,
+      "smtp_server": "smtp.gmail.com",
+      "smtp_port": 587,
+      "username": "your_email@gmail.com",
+      "password": "your_app_password",
+      "note": "Configure email settings to enable email notifications"
+    },
+    
+    "sms": {
+      "enabled": false,
+      "service": "twilio",
+      "account_sid": "your_twilio_account_sid",
+      "auth_token": "your_twilio_auth_token",
+      "from_number": "+1234567890",
+      "note": "Configure SMS service to enable SMS notifications"
+    },
+    
+    "webhook": {
+      "enabled": false,
+      "url": "https://your-emergency-system.com/webhook",
+      "auth_token": "your_webhook_auth_token",
+      "note": "Configure webhook URL for integration with external systems"
+    }
+  },
+  
+  "alert_thresholds": {
+    "lone_woman_duration": 5,
+    "woman_surrounded_duration": 3,
+    "crowd_density_threshold": 8,
+    "crowd_density_duration": 8,
+    "alert_cooldown": 30
+  },
+  
+  "emergency_response": {
+    "auto_capture_snapshots": true,
+    "auto_send_notifications": false,
+    "auto_trigger_alarm": true,
+    "save_emergency_logs": true,
+    "snapshot_quality": 95,
+    "max_snapshots_per_hour": 20
+  },
+  
+  "system_info": {
+    "camera_id": "CAM_001",
+    "installation_date": "2025-09-20",
+    "responsible_person": "Security Administrator",
+    "contact_for_system": "admin@company.com",
+    "notes": "Configure all settings above before deploying to production"
+  }
+}
